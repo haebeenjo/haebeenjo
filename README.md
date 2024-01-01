@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jo%20Haebeen&fontSize=90)
 
 ## 🛠️ Stacks
 
